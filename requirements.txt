@@ -1,2 +1,5 @@
 jupyterlab==3.2.3
 jupyterlab-link-share
+kaggle
+pandas
+seaborn
