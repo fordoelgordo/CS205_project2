@@ -3,3 +3,4 @@ jupyterlab-link-share
 kaggle
 pandas
 seaborn
+nltk
