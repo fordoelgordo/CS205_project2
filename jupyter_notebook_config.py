@@ -1,2 +1,2 @@
 c.LabApp.collaborative = True
-NotebookApp.max_buffer_size = 4096
+c.NotebookApp.max_buffer_size = 4096 ** 3
